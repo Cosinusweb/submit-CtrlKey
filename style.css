@@ -1,0 +1,23 @@
+      body {  
+        font: 16px/1.5 helvetica-neue, helvetica, arial, san-serif;  
+      }  
+      textarea {  
+        border: 1px solid #ccc;  
+        display:block;  
+        width: 250px;  
+        height: 100px;  
+      }  
+      p {  
+        border: 1px solid #ccc;  
+        background: #ececec;  
+        padding: 10px;  
+        margin: 10px 0;  
+        width: 230px;  
+      }  
+      button {  
+        border: 1px solid #ccc;  
+        background: #ececec;  
+        -webkit-border-radius: 3px;  
+        padding: 5px 20px;  
+        margin-top:10px;  
+      }  
